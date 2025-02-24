@@ -39,7 +39,7 @@ export function Profil() {
 
                 {/* mettre a jour l'url de linkedin pour faire attérir sur mon prodil */}
                 <div className="col-span-8">
-                    <a href="https://www.linkedin.com/in/votreprofil" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/jordan-fery-245752157/" target="_blank" rel="noopener noreferrer">
                         <Linkedin color="grey" size={32} />
                     </a>
                 </div>
