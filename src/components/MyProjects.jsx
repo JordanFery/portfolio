@@ -25,14 +25,17 @@ export function ProjetsListe() {
                             </a>
                         </AccordionTrigger>
                         <AccordionContent>
-                            Projet personnel qui à l'instar de "Azgarok", intègre un petit backend. Le but de ce projet était purement d'alimenter
-                            mon portfolio. J'ai voulu par ce projet toucher aux outils principaux que je pourrais être ammené à utiliser pour la réalisation de sites vitrines.
-                            <br />
-                            Technos utilisées : Nextjs (Front-end et Back-end) <br />
-                            Tailwindcss, Shadcn, Lucide-React <br />
-                            Prisma, PostgreSQL <br />
-                            Emailjs <br />
-                            Git, Vercel, Supabase
+                            <p>
+
+                                Projet personnel qui à l'instar de "Azgarok", intègre un petit backend. Le but de ce projet était purement d'alimenter
+                                mon portfolio. J'ai voulu par ce projet toucher aux outils principaux que je pourrais être ammené à utiliser pour la réalisation de sites vitrines.
+                                <br />
+                                Technos utilisées : Nextjs (Front-end et Back-end) <br />
+                                Tailwindcss, Shadcn, Lucide-React <br />
+                                Prisma, PostgreSQL <br />
+                                Emailjs <br />
+                                Git, Vercel, Supabase
+                            </p>
 
                         </AccordionContent>
                     </AccordionItem>
@@ -43,9 +46,11 @@ export function ProjetsListe() {
                             </a>
                         </AccordionTrigger>
                         <AccordionContent>
-                            Projet exclusivement Frontend. Ce site a pour vocation de servire de plateforme centrale à un streamer Twitch.
-                            En collaboration avec le streamer, nous avons défini le cadre du projet puis j'ai réalisé ce site. <br />
-                            Projet suspendu temporairement.
+                            <p>
+                                Projet exclusivement Frontend. Ce site a pour vocation de servire de plateforme centrale à un streamer Twitch.
+                                En collaboration avec le streamer, nous avons défini le cadre du projet puis j'ai réalisé ce site. <br />
+                                Projet suspendu temporairement.
+                            </p>
 
                         </AccordionContent>
                     </AccordionItem>
@@ -56,15 +61,18 @@ export function ProjetsListe() {
                             </a>
                         </AccordionTrigger>
                         <AccordionContent>
-                            Mon projet de stage. Ce projet a été abandonné faute de financements.. Il aurait eu pour but de mettre en
-                            relation des éleveurs de chiens et chats avec des futures propriétaires.
-                            Le site aurait été orienté sur le côté éthique et respect du bien être des animaux.
-                            Ma contribution pour ce site a été de créer la maquette mobile, desktop, le
-                            Front-end et le Back-end d'un formulaire de contact utilisant Nodemailer ainsi
-                            que la page de profil utilisateur avec la gestion du stockage des photos de
-                            profile sur AWS S3, la création d'URL signée, de nanoid etc... afin d'assurer
-                            la sécurité des données utilisateurs. <br />
-                            Technos utilisées : Nextjs (Front-end et Back-end), Tailwindcss, Shadcn, Lucide-React Prisma, PostgreSQL
+                            <p>
+
+                                Mon projet de stage. Ce projet a été abandonné faute de financements.. Il aurait eu pour but de mettre en
+                                relation des éleveurs de chiens et chats avec des futures propriétaires.
+                                Le site aurait été orienté sur le côté éthique et respect du bien être des animaux.
+                                Ma contribution pour ce site a été de créer la maquette mobile, desktop, le
+                                Front-end et le Back-end d'un formulaire de contact utilisant Nodemailer ainsi
+                                que la page de profil utilisateur avec la gestion du stockage des photos de
+                                profile sur AWS S3, la création d'URL signée, de nanoid etc... afin d'assurer
+                                la sécurité des données utilisateurs. <br />
+                                Technos utilisées : Nextjs (Front-end et Back-end), Tailwindcss, Shadcn, Lucide-React Prisma, PostgreSQL
+                            </p>
 
                         </AccordionContent>
                     </AccordionItem>
@@ -87,8 +95,11 @@ export function ProjetsListe() {
                             </p>
                         </AccordionTrigger>
                         <AccordionContent>
-                            Créé en début de formation, ce site m'a permis de m'exercer sur HTML CSS et les flexbox
-                            afin de prendre en main le positionnement des éléments sur une page.
+                            <p>
+
+                                Créé en début de formation, ce site m'a permis de m'exercer sur HTML CSS et les flexbox
+                                afin de prendre en main le positionnement des éléments sur une page.
+                            </p>
                         </AccordionContent>
                     </AccordionItem>
                     <AccordionItem value="item-3">
@@ -98,8 +109,11 @@ export function ProjetsListe() {
                             </p>
                         </AccordionTrigger>
                         <AccordionContent>
-                            Il s'agit là de la création d'une page de blog sur le thème des jeux vidéos. Cet exercice
-                            m'a permis de prendre en main Bootstrap.
+                            <p>
+
+                                Il s'agit là de la création d'une page de blog sur le thème des jeux vidéos. Cet exercice
+                                m'a permis de prendre en main Bootstrap.
+                            </p>
                         </AccordionContent>
                     </AccordionItem>
                     <AccordionItem value="item-2">
@@ -109,11 +123,14 @@ export function ProjetsListe() {
                             </p>
                         </AccordionTrigger>
                         <AccordionContent>
-                            Le chronomètre est le fruit d'un exercice réalisé pendant ma formation. Il
-                            m'a permis de renforcer ma compréhension de la logique de programmation,
-                            tout en exigeant une partie HTML CSS. Ce projet m'a permis de renforcer mes
-                            connaissances sur le DOM et la façon dont intéragit le script avec les éléments
-                            de la page.
+                            <p>
+
+                                Le chronomètre est le fruit d'un exercice réalisé pendant ma formation. Il
+                                m'a permis de renforcer ma compréhension de la logique de programmation,
+                                tout en exigeant une partie HTML CSS. Ce projet m'a permis de renforcer mes
+                                connaissances sur le DOM et la façon dont intéragit le script avec les éléments
+                                de la page.
+                            </p>
                         </AccordionContent>
                     </AccordionItem>
                     <AccordionItem value="item-1">
@@ -123,9 +140,12 @@ export function ProjetsListe() {
                             </p>
                         </AccordionTrigger>
                         <AccordionContent>
-                            Il s'agit là d'un projet personnel développé pendant la formation pour
-                            développer mes compétences en Javascript, HTML et CSS. Pour des raisons
-                            évidente, ce projet n'est pas hébergé en ligne.  <Laugh className="inline" />
+                            <p>
+
+                                Il s'agit là d'un projet personnel développé pendant la formation pour
+                                développer mes compétences en Javascript, HTML et CSS. Pour des raisons
+                                évidente, ce projet n'est pas hébergé en ligne.  <Laugh className="inline" />
+                            </p>
                         </AccordionContent>
                     </AccordionItem>
 
