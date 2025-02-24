@@ -10,7 +10,7 @@ import { useState } from "react";
 import Image from "next/image";
 import { Button } from "@/components/ui/button"
 
-export default function page() {
+export default function Page() {
     const [formSubmitted, setFormSubmitted] = useState(false);
     const [activeSection, setActiveSection] = useState('profil');
 
