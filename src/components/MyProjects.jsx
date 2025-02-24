@@ -26,7 +26,6 @@ export function ProjetsListe() {
                         </AccordionTrigger>
                         <AccordionContent>
                             <p>
-
                                 Projet personnel qui à l'instar de "Azgarok", intègre un petit backend. Le but de ce projet était purement d'alimenter
                                 mon portfolio. J'ai voulu par ce projet toucher aux outils principaux que je pourrais être ammené à utiliser pour la réalisation de sites vitrines.
                                 <br />
