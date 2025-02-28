@@ -80,7 +80,7 @@ export function Projets() {
                 <CarouselItem className="flex-shrink-0 w-full h-[600px]">
                     <div className="w-full h-full">
                         <Image
-                            src="/chronometre.png"
+                            src="/Chronometre.png"
                             alt="Image 3"
                             width={800}
                             height={600}
@@ -91,7 +91,7 @@ export function Projets() {
                 <CarouselItem className="flex-shrink-0 w-full h-[600px]">
                     <div className="w-full h-full">
                         <Image
-                            src="/calculatrice.png"
+                            src="/Calculatrice.png"
                             alt="Image 3"
                             width={800}
                             height={600}
