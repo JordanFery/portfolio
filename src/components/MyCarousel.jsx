@@ -36,7 +36,7 @@ export function Projets() {
                 <CarouselItem className="flex-shrink-0 w-full h-[600px]">
                     <div className="w-full h-full">
                         <Image
-                            src="/nosanimaux.jpg"
+                            src="/nosanimaux.png"
                             alt="Image 1"
                             width={800}
                             height={600}
@@ -47,7 +47,7 @@ export function Projets() {
                 <CarouselItem className="flex-shrink-0 w-full h-[600px]">
                     <div className="w-full h-full">
                         <Image
-                            src="/pendu.jpg"
+                            src="/pendu.png"
                             alt="Image 2"
                             width={800}
                             height={600}
@@ -58,7 +58,7 @@ export function Projets() {
                 <CarouselItem className="flex-shrink-0 w-full h-[600px]">
                     <div className="w-full h-full">
                         <Image
-                            src="/sitevoyage.jpg"
+                            src="/sitevoyage.png"
                             alt="Image 3"
                             width={800}
                             height={600}
@@ -69,7 +69,7 @@ export function Projets() {
                 <CarouselItem className="flex-shrink-0 w-full h-[600px]">
                     <div className="w-full h-full">
                         <Image
-                            src="/historygame.jpg"
+                            src="/historygame.png"
                             alt="Image 3"
                             width={800}
                             height={600}
@@ -80,7 +80,7 @@ export function Projets() {
                 <CarouselItem className="flex-shrink-0 w-full h-[600px]">
                     <div className="w-full h-full">
                         <Image
-                            src="/chronometre.jpg"
+                            src="/chronometre.png"
                             alt="Image 3"
                             width={800}
                             height={600}
@@ -91,7 +91,7 @@ export function Projets() {
                 <CarouselItem className="flex-shrink-0 w-full h-[600px]">
                     <div className="w-full h-full">
                         <Image
-                            src="/calculatrice.jpg"
+                            src="/calculatrice.png"
                             alt="Image 3"
                             width={800}
                             height={600}
