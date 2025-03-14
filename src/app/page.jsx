@@ -83,7 +83,9 @@ export default function Page() {
             </div>
 
             <div className="col-start-4 col-span-6 sm:col-start-7 sm:col-span-5">
-                <Projets />
+                {activeSection !== 'contact' && <Projets />}
+
+                {/* <Projets /> */}
             </div>
         </>
     );

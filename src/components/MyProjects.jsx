@@ -89,7 +89,7 @@ export function ProjetsListe() {
                     </AccordionItem>
                     <AccordionItem value="item-4">
                         <AccordionTrigger>
-                            <p>
+                            <p className="text-start">
                                 Homepage d'un site d'hébergement
                             </p>
                         </AccordionTrigger>

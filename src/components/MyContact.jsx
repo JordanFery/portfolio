@@ -89,7 +89,7 @@ export function Contact() {
     return (
         <section className="w-screen h-screen grid grid-cols-12 items-center py-18">
 
-            <div className="col-span-4 p-6 rounded-lg">
+            <div className="col-span-10 md:col-span-4 p-6 rounded-lg">
                 <h1 className="text-3xl font-bold pt-18 pb-16 text-maincolor">Laissez-nous votre message !</h1>
                 {isFormSubmitted ? (
                     <div className="text-center">

@@ -31,7 +31,7 @@ export function Profil() {
 
                 <div className="col-span-8">
                     Télécharger mon CV
-                    <a href="/CV Jordan Fery.pdf"
+                    <a href="/CV JFERY.pdf"
                         download>
                         <Download className="inline ml-4" />
                     </a>
