@@ -9,7 +9,7 @@ import Image from 'next/image'
 
 export function Projets() {
     return (
-        <Carousel className="relative pt-14 sm:pt-0">
+        <Carousel className="relative pb-24 sm:pt-0">
             <CarouselContent className="flex">
                 <CarouselItem className="flex-shrink-0 w-full h-[600px]">
                     <div className="w-full h-full">
