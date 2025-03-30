@@ -15,7 +15,7 @@ export function ProjetsListe() {
 
 
 
-            <div className="col-start-3 col-end-12">
+            <div className="col-start-1 md:col-start-3 col-end-12">
 
                 <Accordion type="single" collapsible className="w-full">
                     <AccordionItem value="item-8">
@@ -55,7 +55,7 @@ export function ProjetsListe() {
                     </AccordionItem>
                     <AccordionItem value="item-6">
                         <AccordionTrigger>
-                            <a href="http://www.youtube.com">
+                            <a href="/">
                                 Nos animaux
                             </a>
                         </AccordionTrigger>
