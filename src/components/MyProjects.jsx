@@ -75,18 +75,6 @@ export function ProjetsListe() {
 
                         </AccordionContent>
                     </AccordionItem>
-                    <AccordionItem value="item-5">
-                        <AccordionTrigger>
-                            <p>
-                                Jeu du pendu
-                            </p>
-                        </AccordionTrigger>
-                        <AccordionContent>
-                            C'est un projet que j'ai développé lorsque j'ai appris le Javascript. J'ai créé une
-                            interface graphique et ai intégré toute la logique de programmation nécessaire au bon
-                            fonctionnement du jeu. J'ai utilisé HTML, CSS et Javascript
-                        </AccordionContent>
-                    </AccordionItem>
                     <AccordionItem value="item-4">
                         <AccordionTrigger>
                             <p className="text-start">
@@ -98,52 +86,6 @@ export function ProjetsListe() {
 
                                 Créé en début de formation, ce site m'a permis de m'exercer sur HTML CSS et les flexbox
                                 afin de prendre en main le positionnement des éléments sur une page.
-                            </p>
-                        </AccordionContent>
-                    </AccordionItem>
-                    <AccordionItem value="item-3">
-                        <AccordionTrigger>
-                            <p>
-                                History Game
-                            </p>
-                        </AccordionTrigger>
-                        <AccordionContent>
-                            <p>
-
-                                Il s'agit là de la création d'une page de blog sur le thème des jeux vidéos. Cet exercice
-                                m'a permis de prendre en main Bootstrap.
-                            </p>
-                        </AccordionContent>
-                    </AccordionItem>
-                    <AccordionItem value="item-2">
-                        <AccordionTrigger>
-                            <p>
-                                Chronomètre
-                            </p>
-                        </AccordionTrigger>
-                        <AccordionContent>
-                            <p>
-
-                                Le chronomètre est le fruit d'un exercice réalisé pendant ma formation. Il
-                                m'a permis de renforcer ma compréhension de la logique de programmation,
-                                tout en exigeant une partie HTML CSS. Ce projet m'a permis de renforcer mes
-                                connaissances sur le DOM et la façon dont intéragit le script avec les éléments
-                                de la page.
-                            </p>
-                        </AccordionContent>
-                    </AccordionItem>
-                    <AccordionItem value="item-1">
-                        <AccordionTrigger>
-                            <p>
-                                Calculatrice
-                            </p>
-                        </AccordionTrigger>
-                        <AccordionContent>
-                            <p>
-
-                                Il s'agit là d'un projet personnel développé pendant la formation pour
-                                développer mes compétences en Javascript, HTML et CSS. Pour des raisons
-                                évidente, ce projet n'est pas hébergé en ligne.  <Laugh className="inline" />
                             </p>
                         </AccordionContent>
                     </AccordionItem>
